@@ -1,0 +1,21 @@
+#main-container{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+#container-1{
+    background-color: blue;
+   
+}
+#container-2{
+   
+    background-color: crimson;
+}
+#container-3{
+    background-color: blueviolet;
+}
+#container-4{
+    background-color: darkorange;
+}
